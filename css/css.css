@@ -74,6 +74,12 @@ img {
   background-color: #ddd;
   color: black;
 }
+.iframe-container{
+	position: relative;
+	width:100%;
+	padding-bottom: 56.25%;
+	height:0;
+}
 
 /* Active/current link */
 .navbar a.active {
